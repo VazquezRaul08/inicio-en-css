@@ -1,0 +1,60 @@
+h2{
+    color: rgb(0, 0, 0);
+}
+
+h2 {
+    border: rgb(42, 253, 0) 2px solid;
+    background-color: rgb(25, 124, 0);
+}
+
+h1 {
+    border: rgb(42, 253, 0) 2px solid;
+    background-color: rgb(25, 124, 0);
+}
+
+.special {
+    border:#03913e;
+    background-color:rgb(25, 124, 0);
+}
+
+li.spacious {
+         margin: 2em;
+}
+
+li.spacious.elegant {
+    margin: 2em;
+}
+
+ul.my-things li { 
+    margin: 2em;
+}
+
+img + h1 {
+    font-weight: bold;
+}
+
+html {
+    margin: 0 auto;
+    width: 60em;
+}
+
+a,li {
+    color: rgb(0, 0, 0);
+    background-color: rgb(0, 255, 136);
+    padding: 16px;
+}
+
+ul {
+    list-style-type:square;
+    border: rgb(42, 253, 0);
+}
+
+ul.lista {
+    list-style-type:square;
+    background-color: rgb(0, 255, 136) ;
+}
+
+a.volver {
+    color: black;
+    background-color:white;
+}
